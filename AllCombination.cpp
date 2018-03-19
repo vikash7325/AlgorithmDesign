@@ -1,4 +1,4 @@
-/*Permutatin Goldman Sachs Vikash Kumar*/
+/*All combination Goldman Sachs Vikash Kumar*/
 #include<iostream>
 using namespace std;
 void swap(char *a, char *b){
